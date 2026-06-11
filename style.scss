@@ -1,0 +1,13 @@
+$primaryColor: #0d6efd;
+
+.hero{
+    background:#f4f4f4;
+
+    h1{
+        color:$primaryColor;
+    }
+
+    button{
+        background:$primaryColor;
+    }
+}
